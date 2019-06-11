@@ -1,0 +1,9 @@
+{
+  "name": "broad",
+  "version": "0.0.1",
+  "description": "Broad site",
+  "main": "index.js",
+  "repository": "git@github.com:lisaross/broad.git",
+  "author": "Lisa Ross <lisa@thisisbroad.com>",
+  "license": "MIT"
+}
